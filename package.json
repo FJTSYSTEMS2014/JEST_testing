@@ -1,0 +1,14 @@
+{
+    "name": "app_new",
+    "version": "1.0.1",
+    "description": "Testing con JEST",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Tscherig Frsncisco",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
